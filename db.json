@@ -1,0 +1,42 @@
+{
+  "registered": [
+    {
+      "firstName": "rajesh",
+      "lastName": "D",
+      "email": "raj13101999@gmail.com",
+      "mobile": 9384615664,
+      "weight": 80,
+      "height": 168,
+      "bmi": 0.002834467120181406,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-19T18:30:00.000Z",
+      "id": 1
+    },
+    {
+      "firstName": "suresh",
+      "lastName": "d",
+      "email": "suresh2342001@gmail.com",
+      "mobile": 8428287804,
+      "weight": 69,
+      "height": 155,
+      "bmi": 0.0028720083246618106,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Fitness"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-19T18:30:00.000Z",
+      "id": 2
+    }
+  ]
+}
